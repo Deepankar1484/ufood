@@ -35,13 +35,13 @@ const Card = ({ d, time }) => {
                 <h1 className="text-xl md:text-3xl text-orange-600 font-semibold">
                     {time}
                 </h1>
-                {Array.isArray(d)
-                    ? d.map((item, index) => (
-                          <span key={index} className="text-sm md:text-xl text-white">
-                              {item + ", "}
-                          </span>
-                      ))
-                    : d}
+                {Array.isArray(d) ? (
+                    <span className="text-sm md:text-xl text-white">
+                        {d.join(", ")}
+                    </span>
+                ) : (
+                    d
+                )}
             </div>
         </div>
     );
