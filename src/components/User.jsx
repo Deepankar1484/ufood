@@ -63,11 +63,11 @@ const User = () => {
                 <h1 className="w-full bg-black text-white py-4 text-center font-semibold underline text-4xl">
                     {gname ? gname : "Today"}'s Menu
                 </h1>
-                <div className=" p-5">
+                <div className="p-5 md:p-0">
                     <h1 className="text-center font-semibold text-3xl py-3 hidden md:block">
                         {fname}'s TimeTable for the mess
                     </h1>
-                    <div className="w-full max-w-md mx-auto grid-rows-4 ">
+                    <div className="w-full max-w-lg mx-auto grid-rows-4">
                         <Card
                             d={actual?.breakfast || "no actual"}
                             time="Breakfast"
