@@ -1,66 +1,90 @@
 [
     {
-        "breakfast": ["Poori", "Halwa", "Black Channa", "Tea"],
-        "Lunch": ["White Channa", "Kulcha", "Steamed Rice", "Pickle", "raita"],
-        "snacks": ["Biscuits", "Coffee"],
+        "breakfast": ["Poori", "Aloo Ki Sabji", "Halwa", "Tea"],
+        "Lunch": ["Veg Noodles", "Manchurian", "Fried Rice"],
+        "snacks": ["Biscuits // Rusk", "Coffee"],
         "dinner": [
-            "Moong Saboot",
-            "Chilli Potato",
+            "Yellow Dal",
+            "Gatta Masala Curry",
             "Steamed Rice",
             "Roti",
             "Seviyan Kheer"
         ]
     },
     {
-        "breakfast": ["Aloo prantha", "Curd pickle", "tea"],
+        "breakfast": ["Macroni", "Bread jam", "Bread toast", "Hot Milk"],
         "Lunch": [
-            "Dal Makhani",
-            "Aloo shimla mirch",
+            "Rajmah Masala",
+            "Aloo Jeera",
             "Steamed Rice",
             "Roti",
             "Boondi raita"
         ],
-        "snacks": ["Hot Dog // Stuffed Kulcha", "Tea"],
+        "snacks": ["Samosa", "Sonth Chutney", "Tea"],
         "dinner": [
-            "Chana Dal",
-            "Kadhai paneer/ Paneer Butter Masala",
+            "Moong Masoor Dal",
+            "Paneer Masala",
             "Steamed Rice",
             "Roti",
             "Gulab jamun"
         ]
     },
     {
-        "breakfast": ["Macroni", "Bread jam", "Bread toast", "coffee"],
+        "breakfast": [
+            "Mix Aloo prantha",
+            "Bread",
+            "Curd // Butter",
+            "Pickle",
+            "Tea"
+        ],
         "Lunch": [
-            "Rajmah Masala",
-            "Aloo Jeera",
+            "Pindi Channa",
+            "Kadoo ki Sabji // Aloo Capsicum",
             "Steamed Rice",
             "Roti",
             "Mix raita"
         ],
-        "snacks": ["Samosa", "Tea"],
+        "snacks": ["Cake", "Tea"],
         "dinner": [
-            "Mix Dal",
-            "Aloo Nutri",
+            "Dal Makhani",
+            "Bhindi Masala",
             "Steamed Rice",
             "Roti",
-            "Cold Coffee // Rohafza Milk"
+            "Pickle",
+            "Kulfi"
         ]
     },
     {
-        "breakfast": ["Plain Prantha", "Aloo Ki Sabji", "Tea"],
+        "breakfast": [
+            "Sweet Daliya",
+            "Banana",
+            "Masala Hot Sandwich",
+            "coffee"
+        ],
         "Lunch": [
-            "Channa Masala",
-            "Giya ki Sabzi",
+            "Ghiya Channa Dal",
+            "Tamater Aloo ki sabji",
+            "Tadka Rice",
+            "Roti",
+            "Mint Raita"
+        ],
+        "snacks": ["Pastry", "Tea"],
+        "dinner": [
+            "Saboot Masoor Dal",
+            "Veg Korma // Mix Vegetable",
             "Steamed Rice",
             "Roti",
-            "raita"
-        ],
-        "snacks": ["Patty", "Tea"],
-        "dinner": ["Black Chana", "Mix Veg", "Steamed Rice", "Roti", "Kulfi"]
+            "Pickle",
+            "Cold Milk"
+        ]
     },
     {
-        "breakfast": ["Masala Hot Sandwich", "Sweet Daliya", "Tea"],
+        "breakfast": [
+            "Mutter Kulcha",
+            "Chutney",
+            "Poha // Plain Parantha",
+            "Tea"
+        ],
         "Lunch": [
             "Kadhi Pakoda",
             "Aloo Mutter",
@@ -68,28 +92,32 @@
             "Roti",
             "Salad"
         ],
-        "snacks": ["Cake", "Tea"],
+        "snacks": ["Poha Cutlet", "Tomato Ketchup", "Tea"],
         "dinner": [
-            "Dal Makhani",
-            "Nutri Masala",
+            "Dal Tadka",
+            "Masala Gray Chaap",
             "Steamed Rice",
             "Roti",
-            "Gulab jamun"
+            "Ladoo // Son-Papdi // Balu Sahi"
         ]
     },
     {
-        "breakfast": ["Mix prantha", "Curd", "Tea"],
+        "breakfast": [
+            "Pav Bhaji // Plain Prantha",
+            "Bread toast // Sabji",
+            "Milk // Tea"
+        ],
         "Lunch": [
             "Black Channa",
-            "Vegetable sahi korma",
+            "Chinese Nutri // Aloo Nutri Masala",
             "Steamed Rice",
             "Roti",
             "Boondi raita"
         ],
         "snacks": ["Cold Sandwich", "Nimbu Pani"],
         "dinner": [
-            "Moong Masoor Dal",
-            "Mutter Paneer",
+            "Malka Dal",
+            "Mutter Paneer // Kadhai Paneer",
             "Egg Curry",
             "Steamed Rice",
             "Roti",
@@ -97,27 +125,21 @@
         ]
     },
     {
-        "breakfast": [
-            "Banana",
-            "Sweet Daliya",
-            "Poha",
-            "Bread toast",
-            "coffee"
-        ],
+        "breakfast": ["Namkeen Seviyan", "Bread Butter and Jam", "tea"],
         "Lunch": [
-            "Mah Channa Dal",
-            "Kofta Curry",
-            "Yellow Rice",
-            "Roti",
-            "Salad"
-        ],
-        "snacks": ["Mix Namkeen", "Tea"],
-        "dinner": [
-            "Rajmah",
-            "Kadoo ki Sabzi",
+            "Mix Dal // Red Lobhiya",
+            "Malai Mushroom // Mushroom do pyaza",
             "Steamed Rice",
             "Roti",
-            "Basan Ladoo"
+            "Raita"
+        ],
+        "snacks": ["Mix Namkeen // Chips", "Tea"],
+        "dinner": [
+            "Sambar",
+            "South Indian Aloo",
+            "Jeera Rice",
+            "Roti",
+            "Gulab jamun"
         ]
     }
 ]
